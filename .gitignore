@@ -1,0 +1,32 @@
+
+# Ignore Visual Studio temporary files, directories, and build results
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build directories
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore object files and other build artifacts
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.ilk
+*.idb
+
+# Ignore C++/Visual Studio project files
+*.vcxproj.user
+*.vcxproj.filters
+
+External\ Dependencies/
+DSA_Practice.sln
+DSA_Practice/DSA_Practice.vcxproj
+DSA_Practice/DSA_Practice.cpp
